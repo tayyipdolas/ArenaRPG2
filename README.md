@@ -18,8 +18,12 @@ Bu proje, C# dilinde geliştirilen basit bir konsol tabanlı RPG oyunudur. Oyund
 
 [Program.cs dosyasını görüntülemek için buraya tıklayın](https://github.com/tayyipdolas/ArenaRPG2/blob/master/Program.cs)
 
+## 🖼️ Oyun Ekran Görüntüsü
+
+![ArenaRPG2 Oyun Görüntüsü](https://github.com/tayyipdolas/ArenaRPG2/blob/master/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-03%20224825.png?raw=true)
+
+
 ## 📂 Proje Kaynak Dosyaları
-## 🧾 Açıklama
 
 Bu dosyalar, ArenaRPG2 projesinin yapı taşlarını oluşturur. `Program.cs` ana oyun akışını başlatır, `.csproj` ve `.sln` dosyaları projeyi Visual Studio ile derlemek için gereklidir.
 
